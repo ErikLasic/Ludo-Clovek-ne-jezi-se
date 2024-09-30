@@ -1,0 +1,90 @@
+
+gameplay.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+blue
+  rotate: false
+  xy: 2, 116
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+dice_five
+  rotate: false
+  xy: 770, 473
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+dice_four
+  rotate: false
+  xy: 2, 59
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+dice_one
+  rotate: false
+  xy: 59, 116
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+dice_six
+  rotate: false
+  xy: 770, 416
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+dice_three
+  rotate: false
+  xy: 827, 473
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+dice_two
+  rotate: false
+  xy: 2, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 59, 59
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+ludo_board
+  rotate: false
+  xy: 2, 173
+  size: 766, 769
+  orig: 766, 769
+  offset: 0, 0
+  index: -1
+menu_background
+  rotate: false
+  xy: 770, 530
+  size: 206, 412
+  orig: 206, 412
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 116, 116
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: false
+  xy: 770, 359
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
